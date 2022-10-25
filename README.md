@@ -8,15 +8,27 @@
 
 An Express.js and MySQL back-end that uses sequlize to create models for stored information.
 
-[![Starting Database](https://drive.google.com/file/d/17W05ZcSgsjXyT_A5dgYvtspz2f1eZPry/view)](https://drive.google.com/file/d/17W05ZcSgsjXyT_A5dgYvtspz2f1eZPry/view)
+**Starting Database**
+
+[startingDB.webm](https://user-images.githubusercontent.com/104469447/197655602-fa3122f5-83c7-4692-a670-c75422842baa.webm)
+
+**GET All**
 
 [GET All](https://user-images.githubusercontent.com/104469447/197655027-75210ee6-2811-4e87-b990-8306c2623cf7.webm)
 
+**GET by id**
+
 [GET by Id](https://user-images.githubusercontent.com/104469447/197655108-f36325a2-9952-48d4-a2cf-2c7eec4e951d.webm)
+
+**Category CRUD**
 
 [Category CRUD](https://user-images.githubusercontent.com/104469447/197655119-fdaf16cc-1f09-4dcb-8815-653bed927637.webm)
 
+**Product CRUD**
+
 [Product CRUD](https://user-images.githubusercontent.com/104469447/197655123-55cacd37-3c9d-440a-b04e-76adc18ad293.webm)
+
+**Tags CRUD**
 
 [Tags CRUD](https://user-images.githubusercontent.com/104469447/197655131-76f6b71d-e30d-4194-8cdc-2029587491b3.webm)
 
